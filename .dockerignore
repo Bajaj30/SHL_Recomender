@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+*.md
+Documentation/
+test_*.py
+Catalog.json
+prepare_catalog.py
+poetry.lock
+pyproject.toml
+.venv/
